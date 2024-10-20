@@ -1,0 +1,150 @@
+{
+    "firstName": "Robin",
+    "lastName": "Kurian",
+    "email": "dev.robinkurian@gmail.com",
+    "phone": "8848824751",
+    "github": "https://github.com/robin-kurian",
+    "teamGithub": "https://github.com/Evrz-Developers",
+    "profileImage": "Profile.png",
+    "objective": "To obtain a software developer role where I can leverage my technical expertise to develop creative solutions that enhance user experience and drive organizational growth, while also advancing my professional development.",
+    "skills": [
+        "Frontend Development",
+        "Backend Development",
+        "Flutter Development",
+        "Team Collaboration",
+        "Problem Solving",
+        "Communication"
+    ],
+    "technicalExpertise": [
+        "Next.js",
+        "React",
+        "Flutter",
+        "Django",
+        "DRF",
+        "PostgreSQL",
+        "Git",
+        "Docker",
+        "Firebase",
+        "WordPress",
+        "Odoo ERP",
+        "jQuery",
+        "JavaScript",
+        "Tailwind CSS",
+        "Bootstrap",
+        "CSS",
+        "HTML5"
+    ],
+    "experience": [
+        {
+            "title": "Full Stack Developer",
+            "company": "Mobiux Labs",
+            "highlights": "Developed and maintained web applications using Next.js, Tailwind CSS, Django, Flutter, and WordPress.",
+            "location": "Bengaluru, Karnataka",
+            "duration": "(May 2023 - Present)"
+        },
+        {
+            "title": "Python Odoo Developer",
+            "company": "Cybrosys Technologies",
+            "highlights": "Developed many Odoo ERP apps and modules for the Odoo store and clients, gaining insights into business processes and functionality.",
+            "location": "Calicut",
+            "duration": "(Mar 2022 - Apr 2023)"
+        },
+        {
+            "title": "Jr. Python/Django Developer",
+            "company": "Strokx Technologies",
+            "highlights": "Interned in web development, contributing to small projects and progressing from static pages to dynamic backend functionality. Developed a streaming website using APIs, enhancing my full-stack development skills.",
+            "location": "Ernakulam",
+            "duration": "(Jun 2019 - Nov 2020)"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Flutter App for Baby Paradise",
+            "description": "Developing an E-com app with Flutter and Firebase for shop management, featuring Authentication, Admin panel, user privileges, Product Creation, and Listing.",
+            "technologies": [
+                "Flutter",
+                "Firebase"
+            ],
+            "link": "",
+            "github": "https://github.com/Evrz-Developers/marginpoint",
+            "duration": "(Apr 2024 - Present) :: Pending Play Store deployment"
+        },
+        {
+            "title": "Ecom Website for Baby Paradise",
+            "description": "Created an E-commerce site for Shop management with basic features, deployed frontend on Netlify and backend on PythonAnywhere.",
+            "technologies": [
+                "Next.js",
+                "Tailwind CSS",
+                "Django",
+                "DRF"
+            ],
+            "link": "https://marginpoint.netlify.app/",
+            "github": "https://github.com/Evrz-Developers/baby_paradise_frontend",
+            "github2": "https://github.com/Evrz-Developers/baby_paradise_backend",
+            "duration": "(Mar 2024 - Present) //More features to discuss and add"
+        },
+        {
+            "title": " Image Viewer(Extension)",
+            "description": "Created a Browser extension to preview images(SVG, PNG, JPG) with an additional feature of pasting svg code and viewing it, which is a useful tool for web developers. Deployed on Microsoft Edge Addons.",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "CSS"
+            ],
+            "link": "https://microsoftedge.microsoft.com/addons/detail/image-viewer/aallahhhkahedbejllfgdmldhocdcngk",
+            "github": "https://github.com/Evrz-Developers/image-viewer-extension",
+            "duration": "(Oct 2024)"
+        },
+        {
+            "title": "Resume Maker(Web)",
+            "description": "Created a resume maker website using JavaScript, JSON, HTML, and CSS, enabling users to quickly generate a resume by inputting their details. Future plans include adding features and migrating to Next.js.",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "CSS",
+                "Json"
+            ],
+            "link": "https://evrz-developers.github.io/resume-maker-js/",
+            "github": "https://github.com/Evrz-Developers/resume-maker-js",
+            "duration": "(Oct 2024)"
+        }
+    ],
+    "education": [
+        {
+            "degree": "BCA",
+            "institution": "Nirmala College Of Arts & Science",
+            "duration": "(Mar 2016 - Mar 2019)"
+        },
+        {
+            "degree": "HSE",
+            "institution": "St.joseph's HSS",
+            "duration": "(Jun 2014 - Mar 2016)"
+        },
+        {
+            "degree": "SSLC",
+            "institution": "Little Flower HSS",
+            "duration": "(Mar 2014)"
+        }
+    ],
+    "interests": [
+        "Coding",
+        "Drawing",
+        "Researching",
+        "Reading",
+        "Traveling",
+        "Adventure touring"
+    ],
+    "languages": [
+        "English",
+        "Malayalam",
+        "Tamil"
+    ],
+    "strengths": [
+        "Self-Learning",
+        "Adaptability",
+        "Problem Solving",
+        "Interactivity",
+        "Continuous Learning",
+        "Collaboration"
+    ]
+}

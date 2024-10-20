@@ -1,0 +1,42 @@
+{
+    "projects": [
+        {
+            "title": "Ecom Website for Baby Paradise (Shop)",
+            "description": "Developed an E-commerce website using Next.js and DRF with basic features as per client requirements. Deployed frontend on netlify and backend on PythonAnywhere.",
+            "technologies": [
+                "Next.js",
+                "Tailwind CSS",
+                "Django",
+                "DRF"
+            ],
+            "link": "https://marginpoint.netlify.app/",
+            "github": "https://github.com/Evrz-Developers/baby_paradise_frontend",
+            "github2": "https://github.com/Evrz-Developers/baby_paradise_backend",
+            "duration": "(Mar 2024 - Present) //More features to discuss and add"
+        },
+        {
+            "title": "Flutter App for Baby Paradise",
+            "description": "Developed an E-com application using Flutter and Firebase. This app is used to manage the shop and its products. Authentication is done using Firebase Auth, Admin panel and user panel are connected to the same database.",
+            "technologies": [
+                "Flutter",
+                "Firebase"
+            ],
+            "link": "",
+            "github": "https://github.com/Evrz-Developers/marginpoint",
+            "duration": "(Apr 2024 - Present) //waiting to deploy on playstore"
+        },
+        {
+            "title": "Resume Maker(Web) using Javascript&Json",
+            "description": "Developed a resume maker website using Javascript,Json, HTML, and CSS. This website allows users to create a single template resume in minutes, just by adding details about their education, experience, skills, and interests in the json file and printing it. Hoping to add more features and templates in the future. Also moving this website to Next js.",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "CSS",
+                "Json"
+            ],
+            "link": "https://github.com/robin-kurian/inventory-management-system-django-react",
+            "github": "https://github.com/Evrz-Developers/resume-maker-js",
+            "duration": "(Oct 2024)"
+        }
+    ]
+}
